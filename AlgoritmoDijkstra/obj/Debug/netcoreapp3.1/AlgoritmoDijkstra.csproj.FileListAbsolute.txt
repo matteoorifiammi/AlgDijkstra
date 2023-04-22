@@ -1,0 +1,14 @@
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.csproj.AssemblyReference.cache
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.AssemblyInfoInputs.cache
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.AssemblyInfo.cs
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\bin\Debug\netcoreapp3.1\AlgoritmoDijkstra.exe
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\bin\Debug\netcoreapp3.1\AlgoritmoDijkstra.deps.json
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\bin\Debug\netcoreapp3.1\AlgoritmoDijkstra.runtimeconfig.json
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\bin\Debug\netcoreapp3.1\AlgoritmoDijkstra.runtimeconfig.dev.json
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\bin\Debug\netcoreapp3.1\AlgoritmoDijkstra.dll
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\bin\Debug\netcoreapp3.1\AlgoritmoDijkstra.pdb
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.dll
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.pdb
+C:\Users\matte\Desktop\Mayday\AlgoritmoDijkstra\AlgoritmoDijkstra\obj\Debug\netcoreapp3.1\AlgoritmoDijkstra.genruntimeconfig.cache

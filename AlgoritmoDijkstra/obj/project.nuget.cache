@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8qtfwoqTFEBKzpdZfZepni9ypOR6jIVz5fRbSx1Czs0v1NZ8Cl4lWejD7y8wnHwKfJY/ptETHzMPPMM9uHExEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matte\\Desktop\\Mayday\\AlgoritmoDijkstra\\AlgoritmoDijkstra\\AlgoritmoDijkstra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
